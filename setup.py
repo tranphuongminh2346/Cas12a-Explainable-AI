@@ -11,10 +11,10 @@ setup(
     description="Explainable Machine Learning for CRISPR-Cas12a On-Target Cleavage Efficiency",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tranphuongminh2346-art/Cas12a-Explainable-AI",
+    url="https://github.com/tranphuongminh2346/Cas12a-Explainable-AI",
     project_urls={
-        "Bug Tracker": "https://github.com/tranphuongminh2346-art/Cas12a-Explainable-AI/issues",
-        "Documentation": "https://github.com/tranphuongminh2346-art/Cas12a-Explainable-AI#readme",
+        "Bug Tracker": "https://github.com/tranphuongminh2346/Cas12a-Explainable-AI/issues",
+        "Documentation": "https://github.com/tranphuongminh2346/Cas12a-Explainable-AI#readme",
     },
     classifiers=[
         "Development Status :: 4 - Beta",

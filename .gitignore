@@ -103,6 +103,7 @@ Submission_Package_Bioinformatics/
 submission_package*/
 
 # Internal Developer & Runner Scripts (Local automation & Kaggle runners)
+RUN_KAGGLE_SPRINT.bat
 scripts/run_kaggle.*
 scripts/download_skills.*
 scripts/download_skills_pure.*
@@ -133,3 +134,6 @@ data/kaggle_dataset/
 cas12a_10fold_results_package/
 references/
 *.pdf
+
+data/results/*
+!data/results/.gitkeep
