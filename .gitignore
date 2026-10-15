@@ -137,3 +137,8 @@ references/
 
 data/results/*
 !data/results/.gitkeep
+
+scripts/
+src/0*.py
+data/results/*
+!data/results/.gitkeep
